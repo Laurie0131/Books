@@ -77,7 +77,7 @@ within the non-error path to insert the appropriate codes.
 Implementation on Quark http://comments.gmane.org/gmane.comp.bios.edk2.devel/7022 
 
 
-> **NOTE TO PUBLICATIONS:**  Need to decide if we should await MinnowBoard Max applying this fix https://vthsd.intel.com/hsd/tiano/tracker/default.aspx?tracker_id=216056 now that the 1/16 embargo from USRT has passed.   Also, maybe replace above code sample w/ the Galileo impl?
+> **NOTE TO PUBLICATIONS:**  Need to decide if we should await MinnowBoard Max applying HSD 216056  this fix (Fixed in Release 91 of MinnowBoard MAX) now that the 1/16 embargo from USRT has passed.   Also, maybe replace above code sample w/ the Galileo impl?
 
 
 
