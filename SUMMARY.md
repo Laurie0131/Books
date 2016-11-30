@@ -18,8 +18,6 @@
 * [15. Buffer Overflows in Capsule Update](buffer_overflows_in_capsule_update.md)
 * [16. Boot Failure Related to TPM Measurements](boot_failure_related_to_tpm_measurements.md)
 * [17. Buffer Overflow in Variable Reclaim](buffer_overflow_in_variable_reclaim.md)
-* [19. Counter Based Authenticated Variable Issue](counter_based_authenticated_variable_issue.md)
-   * Honoring Memory Only Reset Control and correct MOR spec imlementation
 * [18. Overflow in Processing of AuthVarKeyDatabase](overflow_in_processing_of_authvarkeydatabase.md)
 * 19. Counter Based Authenticated Variable Issue
 
