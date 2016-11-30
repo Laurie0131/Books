@@ -21,4 +21,5 @@
 * [19. Counter Based Authenticated Variable Issue](counter_based_authenticated_variable_issue.md)
    * Honoring Memory Only Reset Control and correct MOR spec imlementation
 * [18. Overflow in Processing of AuthVarKeyDatabase](overflow_in_processing_of_authvarkeydatabase.md)
+* 19. Counter Based Authenticated Variable Issue
 
