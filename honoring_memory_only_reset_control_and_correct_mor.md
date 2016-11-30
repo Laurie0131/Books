@@ -67,8 +67,7 @@ Status = VariableServices->PeiGetVariable (
           &MemoryOverwriteReq
           );
 if (!EFI_ERROR(Status)) {
-// Set a Bit to tell Memory reference code to zeroize memory w/
-hardware engine
+// Set a Bit to tell Memory reference code to zeroize memory w/ hardware engine
 // or perform the zeroize operation in software
 }```
 
