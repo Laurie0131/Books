@@ -19,5 +19,4 @@
 * [16. Boot Failure Related to TPM Measurements](boot_failure_related_to_tpm_measurements.md)
 * [17. Buffer Overflow in Variable Reclaim](buffer_overflow_in_variable_reclaim.md)
 * [18. Overflow in Processing of AuthVarKeyDatabase](overflow_in_processing_of_authvarkeydatabase.md)
-* 19. Counter Based Authenticated Variable Issue
 
